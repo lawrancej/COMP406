@@ -28,7 +28,17 @@ IMPORTANT: June 19 midterm?
 
 ==== What is a license? What's the difference among them?
 
+Copyleft: GPL (strong), LGPL (weak), Mozilla Public licence (weak)
+Permissive: BSD, MIT, XFree86, Apache
 
+==== People
+
+Richard Stallman
+Linus Torvalds
+Bruce Perens
+Eric Raymond
+Michael Tiemann
+Mark Shuttleworth
 
 ==== When did open source software start?
 

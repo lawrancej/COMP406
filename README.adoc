@@ -4,6 +4,8 @@
 
 === July 13: Status updates
 
+http://doodle.com/5yyx92itd7db3mkv[Team project scheduling]
+
 Status update for all. Please populate your README with these:
 
 * What are you working on?
